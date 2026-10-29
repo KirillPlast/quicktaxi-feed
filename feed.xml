@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>QuickTaxi — Meet Our Drivers</title>
+    <link>https://viewstripo.email/</link>
+    <description>QuickTaxi demo feed: drivers and cars</description>
+    <language>en</language>
+    <item>
+      <title>Daniel Reyes</title>
+      <link>https://viewstripo.email/</link>
+      <description>Toyota Camry</description>
+      <category>Comfort</category>
+      <guid isPermaLink="false">AM-001</guid>
+      <enclosure url="https://effyj.stripocdn.email/content/guids/CABINET_2c2ec2acfeab6382b47580b0c540159f4962cfcc684c72a4e2839e34ad7ed948/images/image17932837313510.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Anna Kowalski</title>
+      <link>https://viewstripo.email/</link>
+      <description>Tesla Model 3</description>
+      <category>Electric</category>
+      <guid isPermaLink="false">AM-002</guid>
+      <enclosure url="https://effyj.stripocdn.email/content/guids/CABINET_2c2ec2acfeab6382b47580b0c540159f4962cfcc684c72a4e2839e34ad7ed948/images/image17932836704930.png" type="image/png" length="0"/>
+    </item>
+    <item>
+      <title>Marco Bianchi</title>
+      <link>https://viewstripo.email/</link>
+      <description>Mercedes E-Class</description>
+      <category>Business</category>
+      <guid isPermaLink="false">AM-003</guid>
+      <enclosure url="https://effyj.stripocdn.email/content/guids/CABINET_2c2ec2acfeab6382b47580b0c540159f4962cfcc684c72a4e2839e34ad7ed948/images/image17932837983400.jpeg" type="image/jpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
